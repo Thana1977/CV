@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 header {
     background-color: rgb(21, 74, 74);    
@@ -10,7 +11,7 @@ header {
     box-shadow: 5px 5px 10px 0px #888888;
     width: 100%;
     height: 50px;
-    display: block; 
+    display:inline-block; 
     
    
 
@@ -50,5 +51,5 @@ header a:hover {
 }
 a.current {
     color: #121313; /* Farbe für die aktuelle Seite/Unterseite */
-    color: rgb(87, 199, 22);
+    color: rgb(231, 166, 119);;
 }
