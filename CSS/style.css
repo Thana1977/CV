@@ -1,0 +1,47 @@
+@font-face{
+    font-family: Abril Fatface;
+    src: url(./font/AbrilFatface-Regular.ttf);
+}
+body {
+
+    margin: 0;
+    padding: 0;
+    
+}
+
+main {
+    max-width: 100%;
+}
+
+main section:nth-of-type(1)>video {
+    position:relative;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+main section:nth-of-type(2){
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items:start;
+
+}
+
+.text-over-video {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:whitesmoke;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+
+h1,h2 {
+    font-family: Abril Fatface;
+    
+}
+
