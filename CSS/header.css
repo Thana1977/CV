@@ -10,7 +10,7 @@ header {
     padding: 0%;
     box-shadow: 5px 5px 10px 0px #888888;
     width: 100vw;
-    height: 5vh;
+    height: 7vh;
     display:inline-block; 
     
    
@@ -29,7 +29,7 @@ header li {
     width: 10%;
     display:inline-block;
     margin: 1%;
-    margin-left: 20px;
+    margin-left: 2%;
     letter-spacing: 1px;
     font-size: 18px;
     text-align:right;
