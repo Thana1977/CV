@@ -47,5 +47,5 @@ hr{
     border: 0px;
     width: 100px;
     margin-top: 0px;
-    clear:unset
+    /* clear:unset */
 }
