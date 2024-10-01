@@ -6,14 +6,18 @@ This project is a personal CV website built with HTML and CSS, featuring custom 
 
 The project contains the following files and folders:
 
-- index.html - The main homepage of the CV website.
-- über_mich.html - The "About Me" page, providing personal information.
-- fähigkeiten.html - The "Skills" page, highlighting key abilities.
-- berufserfahrung.html - The "Work Experience" page, detailing professional experience.
+- pages/ Afolder containing html files
 - css/ - A folder containing multiple CSS files for specific parts of the website.
 - fonts/ - A folder that contains custom fonts used throughout the website.
 - bilder/ - A folder containing images used on the website.
 - README.md - Project documentation.
+
+## pages files
+
+- index.html - The main homepage of the CV website.
+- über_mich.html - The "About Me" page, providing personal information.
+- fähigkeiten.html - The "Skills" page, highlighting key abilities.
+- berufserfahrung.html - The "Work Experience" page, detailing professional experience.
 
 ## CSS Files
 
